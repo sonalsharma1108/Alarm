@@ -6,5 +6,5 @@ Alarm clock build using ReactJS.
 
 ## Instructions
 * Set date and time
-* click on "set alarm" button
+* Click on "set alarm" button
 * It will populate alert message
